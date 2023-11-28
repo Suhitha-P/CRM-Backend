@@ -6,6 +6,9 @@
   "scripts": {
     "start": "nodemon app.js"
   },
+  "engines": {
+  "node": ">=16.6.0"
+  },
   "devDependencies": {
     "nodemon": "^3.0.1"
   }, 
