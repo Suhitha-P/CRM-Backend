@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  },
+  }, 
   "author": "Suhitha",
   "license": "ISC",
   "dependencies": {
